@@ -7,6 +7,14 @@ Marfan Syndrome is an autosomal disorder (only need one copy to develop the cond
 * Cardiovascular system - progressive dilation of the aortic root and ascending aorta, causes aortic incompetence and dissection; Leading cause of premature death in MFS
 
 Symptoms of this disease include:
+* tall stature, long limbs, scoliosis, joing hybermobility, high-arched palate
+* aortic root dialation and dissection (most life threatening)
+* mitral valve prolapse
+* aortic regurgitation 
+* retinal detachment
+* myopia
+* spontaneous pneumothorax
+* and more
 
 Treatments of this disease include:
 * Beta-blockers: considered the first-line medication for patients with this disease
