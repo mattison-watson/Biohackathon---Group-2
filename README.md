@@ -26,3 +26,20 @@ Treatments of this disease include:
 
 
 # Underlying Gene: FBN1
+* Primary Gene: FBN1 (Fibrillin-1)
+* Located on Chromosome 15 at band q21.1
+* Mutations in the FBN1 gene are responsible for approximately 90-95% of Marfan syndrome cases
+
+Genes normally expressed in development and in what tissue are they expressed:
+* FBN1 is expressed from early embryonic development through adulthood in a wide variety of tissues
+* Its expression is particularly high in connective tissues, cardiovascular structures, and the skeletal system
+
+When these are genes abnormally expressed in Marfan Syndrome and in what tissue are they misexpressed:
+* When: Throughout development and in various tissues
+* Tissues: Widely expressed, but particularly important in: Skeletal system (bones and joints), Cardiovascular system (aorta and other blood vessels), Ocular system (lens and retina), Skin and Lungs
+
+The abnormal expression of FBN1 affects multiple organ systems:
+* Cardiovascular system: Weakening of the aortic wall, leading to aneurysms and dissections
+* Skeletal system: Overgrowth of long bones, joint laxity
+* Ocular system: Lens dislocation, myopia
+* Dura mater: Abnormal enlargement (dural ectasia)
