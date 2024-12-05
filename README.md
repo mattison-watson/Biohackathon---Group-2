@@ -9,12 +9,12 @@ Marfan Syndrome is an autosomal disorder (only need one copy to develop the cond
 Symptoms of this disease include:
 
 Treatments of this disease include:
-*Beta-blockers: considered the first-line medication for patients with this disease
-*Angiotensin II Receptor Blockers (ARBs): Losartan and ARBS can reduce aortic root dilation more than beta-blockers alone
-*Surgery: Prophylactic aortic root surgery to prevent aortic dissection or rupture by repairing or replacing the mitral valve 
-*Ophthalmological Management: Regular eye exams and interventions for lens dislocation or retinal detachment 1
-*Orthopedic Management: Treatment of scoliosis, chest wall deformities, and joint problems
-*Lifestyle Changes: avoid high intensity contact sports, maintain a health weight, and avoid smoking 
+* Beta-blockers: considered the first-line medication for patients with this disease
+* Angiotensin II Receptor Blockers (ARBs): Losartan and ARBS can reduce aortic root dilation more than beta-blockers alone
+* Surgery: Prophylactic aortic root surgery to prevent aortic dissection or rupture by repairing or replacing the mitral valve 
+* Ophthalmological Management: Regular eye exams and interventions for lens dislocation or retinal detachment 1
+* Orthopedic Management: Treatment of scoliosis, chest wall deformities, and joint problems
+* Lifestyle Changes: avoid high intensity contact sports, maintain a health weight, and avoid smoking 
 
 
 # Underlying Gene: FBN1
