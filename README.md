@@ -1,4 +1,4 @@
-# Biohackathon---Group-2
+# Biohackathon Group-2
 Alex Feltus Bioinformatics class Biohackathon Dec 3 and Dec 5
 # Disease: Marfan syndrome
 Marfan Syndrome is an autosomal disorder (only need one copy to develop the condition) that affects the skeletal, ocular, and   cardiovascular systems. Here is a breakdown of what it does within each of these systems:
