@@ -44,6 +44,11 @@ The abnormal expression of FBN1 affects multiple organ systems:
 * Ocular system: Lens dislocation, myopia
 * Dura mater: Abnormal enlargement (dural ectasia)
 
+TGFB2 and TGFB3 Genes Contribution
+* The Transforming Growth Factor Beta (TGF-β) signaling pathway plays a key role in the pathogenesis of Marfan Syndrome and related disorders. This pathway is involved in various cellular processes, including cell growth, differentiation, and extracellular matrix production.
+* TGFB2 and TGFB3 genes encode for TGF-β2 and TGF-β3 proteins, respectively. These are ligands that activate the TGF-β signaling pathway. Mutations in these genes have been associated with Marfan-like syndromes and aortic aneurysms.
+* Research has shown that alterations in TGFB2 can significantly impact the severity of Marfan Syndrome. For instance, a study found that Tgfb2 haploinsufficiency (having only one functional copy of the gene) led to early death in mice with Marfan Syndrome.
+
 # Building a PPI Network
 
 # tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes 
