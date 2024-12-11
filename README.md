@@ -1,7 +1,7 @@
 # Biohackathon Group-2
 Alex Feltus Bioinformatics class Biohackathon Dec 3 and Dec 5
 # Disease: Marfan syndrome
-Marfan Syndrome is an autosomal disorder (only need one copy to develop the condition) that affects the skeletal, ocular, and   cardiovascular systems. Here is a breakdown of what it does within each of these systems:
+Marfan Syndrome (MFS) is an autosomal dominant disorder (only one copy of the defective gene is required to develop the condition) that affects the skeletal, ocular, and cardiovascular systems. Here is a breakdown of what it does within each of these systems:
 * Skeletal - scoliosis, chest wall deformity, tall stature, abnormal joint mobility
 * Ocular - ectopia lentis - condition characterized by the displacement or malposition of the eye's crystalline lens from its normal location. It can range from a partial dislocation (lens subluxation) to a complete dislocation (lens luxation), almost always bilateral in MFS
 * Cardiovascular system - progressive dilation of the aortic root and ascending aorta, causes aortic incompetence and dissection; Leading cause of premature death in MFS
@@ -53,13 +53,13 @@ TGFB2 and TGFB3 Genes Contribution
 
 # tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes 
 13 eQTLs located in the heart
-Heart - left ventricle (11) and heart - atrial appendage (2)
-NES value: negative number = decreased expression of FBN1 and positive number = increased expression of FBN1 
-* ENSG00000166147.15, FBN1 chr15 48,875,932_C_T_b38 (after the FBN1 gene), rs149786262, NES value = 0.39, Heart - Atrial Appendage
-* ENSG00000166147.15 , FBN1 chr15 48,397,754_T_C_b38 (before the gene) , rs746407, NES value = -0.32, Heart - Left Ventricle
-* ENSG00000166147.15, FBN1 chr15 48,703,136_A_AT_b38 (after the gene), rs201950838, NES value = 0.34, Heart - Atrial Appendage	
+Heart – Left Ventricle (11): decreased expression of FBN1, indicated by a negative NES value
+* ENSG00000166147.15 , FBN1 chr15 48,397,754_T_C_b38 (before the gene) , rs746407, NES value = -0.32, Heart - Left Ventricle 
 * ENSG00000166147.15, FBN1 chr15 48,400,924_C_T_b38 (before the gene), rs113035351, NES value = -0.34, Heart - Left Ventricle	
 * ENSG00000166147.15, FBN1 chr15 48,403,317_G_A_b38 (before the gene), rs77506851, NES value =  -0.34, Heart - Left Ventricle	
 * ENSG00000166147.15, FBN1 chr15 48,404,992_G_GAGAT_b38 (before the gene), rs35336460, NES value = -0.34, Heart - Left Ventricle	
 * ENSG00000166147.15, FBN1 chr15 48,406,026_T_C_b38 (before the gene), rs73390266, NES value = -0.34, Heart - Left Ventricle	
 * ENSG00000166147.15, FBN1 chr15 48,406,351_G_A_b38 (before the gene), rs73390269, NES value =  -0.34, Heart - Left Ventricle
+Heart – Atrial Appendage (2): increased expression of FBN1, indicated by a positive NES value
+* ENSG00000166147.15, FBN1 chr15 48,875,932_C_T_b38 (after the FBN1 gene), rs149786262, NES value = 0.39, Heart - Atrial Appendage
+* ENSG00000166147.15, FBN1 chr15 48,703,136_A_AT_b38 (after the gene), rs201950838, NES value = 0.34, Heart - Atrial Appendage
